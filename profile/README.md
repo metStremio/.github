@@ -40,6 +40,7 @@ It doesn’t stream anything or provide content as it simply monitors what you�
     <img src="assets/metstremio_preview_ep.png" width="512">
     <img src="assets/metstremio_preview_movie.png" width="512">
 </p>
+
 ---
 
 ### 🖥️ Operating System
