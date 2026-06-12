@@ -8,7 +8,7 @@
 <p align="center">
   <strong>Discord Rich Presence for Stremio.</strong>
   <br />
-  A lightweight local addon that shows what you're watching on Discord — clean, simple, and real-time.
+  A companion app for Stremio that detects playback in real time and syncs it to Discord Rich Presence with clean, native system integration.
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Stremio-8D3DAF?logo=stremio&logoColor=white" alt="Stremio" />
