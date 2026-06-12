@@ -56,15 +56,16 @@ It doesn’t stream anything or provide content as it simply monitors what you�
 ---
 
 ## 🐞 Known Issues
-> [!NOTE]
 - Waiting for more bugs... xD
 
 ---
 
-> [!IMPORTANT]
+> [!NOTE]
 > metStremio uses the OMDb API for movie and series metadata (titles, posters, descriptions).
 > To enable these features, add your API key to your `.env` file.
 > You can get a free key here: https://www.omdbapi.com/apikey.aspx
+
+> [!WARNING]
 > **Keep your key private and NEVER commit it to GitHub.**
 
 ---
