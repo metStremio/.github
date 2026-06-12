@@ -34,6 +34,14 @@ It doesn’t stream anything or provide content as it simply monitors what you�
 
 ---
 
+## 🎨 Preview
+<p align="center">
+    <!-- 🔁 Replace with your own preview -->
+    <img src="assets/metstremio_preview_ep.png" width="512">
+    <img src="assets/metstremio_preview_movie.png" width="512">
+</p>
+---
+
 ### 🖥️ Operating System
 | OS | Description | Support |
 |----|-------------|---------|
